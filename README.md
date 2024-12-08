@@ -8,9 +8,11 @@ This notebook demonstrates how to load and use the trained machine learning mode
 - Classify emergency cases into `high`, `medium`, or `low` levels based on input text.
 
 ### Steps:
+```
 1. Install required dependencies.
 2. Load the trained model.
 3. Use the model to classify example cases.
+```
 
 ###  Install Dependencies
 ```
@@ -71,8 +73,9 @@ for text in sample_texts:
 ```
 
 ## Clone Repository
+```
 Classification_case/
 ├── Classification_case.ipynb  # Notebook berisi panduan dan kode
 ├── model_name.h5              # Model ML yang telah dilatih
 ├── README.md                  # Dokumentasi proyek
-
+```
